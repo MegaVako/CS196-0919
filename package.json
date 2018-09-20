@@ -1,0 +1,8 @@
+{
+    "name": "week_03",
+    "author": "Simon(Yan Sun) <yans3@illinois.edu>",
+    "scripts": {
+      "start": "node assignment.js"
+    },
+    "license": "UIUC"
+}
